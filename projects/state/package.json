@@ -1,0 +1,16 @@
+{
+  "name": "@halolabs/ngx-discover-state",
+  "version": "1.0.0",
+  "description": "URL-first state management engine for ngx-discover discovery interfaces",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^14.0.0",
+    "@angular/core": "^14.0.0",
+    "@angular/router": "^14.0.0",
+    "@halolabs/ngx-discover-config": "^1.0.0",
+    "rxjs": "^7.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
