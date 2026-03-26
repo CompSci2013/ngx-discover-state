@@ -6,3 +6,6 @@ out-tsc/
 *.js.map
 *.d.ts
 !projects/state/src/**/*.d.ts
+
+# Auth tokens
+projects/state/.npmrc
